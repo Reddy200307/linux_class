@@ -5,6 +5,8 @@
 #include<signal.h>
 #include <errno.h>
 #include<sys/wait.h>
-
-
+#include<stdlib.h>
+#include<sys/resource.h>
+#include<string.h>
+#include<sys/stat.h>
 #endif

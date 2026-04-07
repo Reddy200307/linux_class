@@ -10,4 +10,5 @@
 #include<string.h>
 #include<sys/stat.h>
 #include<time.h>
+#include<dirent.h>
 #endif

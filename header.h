@@ -11,4 +11,6 @@
 #include<sys/stat.h>
 #include<time.h>
 #include<dirent.h>
+#include<fcntl.h>
+#include<sys/types.h>
 #endif
